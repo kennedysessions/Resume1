@@ -1,0 +1,83 @@
+* {
+	@media only screen and (max-width:640px) {
+	font-family:Georgia, sans-serif;
+	color: maroon;
+	text-align: left;
+} 
+
+h1 {
+	text-transform: uppercase;
+	font-family: "Oswald", sans-serif;
+	color: rosybrown;
+	font-size: 60px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+h2{
+	text-transform: uppercase;
+	font-family: "Oswald", sans-serif;
+	color:rosybrown;
+	font-size: 30px;
+}
+h3 {
+	text-transform: uppercase;
+	font-family: "Oswald", sans-serif;
+	color:rosybrown;
+	font-size: 30px;
+}
+h4 {
+	text-transform: uppercase;
+	font-family: "Oswald",sans-serif;
+	color: rosybrown;
+	font-size: 30px;
+}
+h5 {
+	text-transform: uppercase;
+	font-family: "Oswald",sans-serif;
+	color: rosybrown;
+	font-size: 30px;
+}
+
+p {
+	background color: ghostwhite;}
+body {
+	background-color: whitesmoke;
+}
+
+div.head {
+	margin: auto;
+	max-width: 400px;
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;}
+
+div.education {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 20px;
+	border: solid; color: rosybrown;
+	background-color:palegoldenrod;
+}
+div.experience {
+	border: solid; color:rosybrown;
+	margin-top:10px;
+	margin-bottom: 10px;
+	padding:20px;
+	background-color:palegoldenrod;
+}
+div.skills {
+	border: solid; color: rosybrown;
+	margin-top: 10px;
+	padding:20px;
+	background-color:palegoldenrod;
+	margin-bottom: 10px;
+}
+div.awards {
+	margin-top:10 px;
+	padding: 20px;
+	background-color: palegoldenrod;
+	margin-bottom: 10px;
+	border: solid; color: rosybrown;
+}
+
